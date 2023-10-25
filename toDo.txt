@@ -1,0 +1,27 @@
+Desafio de Gerenciamento de Projetos:
+
+Imagine que você é responsável por criar um sistema simples para gerenciamento de projetos em uma empresa. O sistema
+ deve incluir as seguintes funcionalidades:
+
+1-Cadastro de Projetos:
+Permita que os usuários cadastrem novos projetos, inserindo informações como nome do projeto, data de início,
+ data de término estimada e membros da equipe.
+
+2-Atribuição de Tarefas:
+Implemente uma funcionalidade para atribuir tarefas a membros da equipe dentro de um projeto.
+ Cada tarefa deve ter um nome, descrição e prazo de conclusão.
+
+3-Monitoramento de Progresso:
+Crie uma forma de monitorar o progresso do projeto, exibindo o status de conclusão com base nas tarefas atribuídas e
+ concluídas.
+
+4-Geração de Relatórios:
+Implemente a capacidade de gerar relatórios sobre o andamento dos projetos, mostrando informações como atrasos,
+ membros mais produtivos, etc.
+
+5-Validação de Datas:
+Utilize if e else para validar se as datas inseridas pelos usuários fazem sentido (por exemplo,
+ a data de término não pode ser anterior à data de início).
+
+6-Implementação de Prazos:
+Use loops (for, while, ou do-while) para verificar se as tarefas estão sendo concluídas dentro dos prazos estabelecidos.
